@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+.list-item {
+  list-style-type: none;
+  margin: 15px;
+  cursor: pointer;
+}

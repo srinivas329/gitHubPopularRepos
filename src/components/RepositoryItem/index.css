@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.avatar {
+  width: 60px;
+  height: 60px;
+}
+.list-item2 {
+  list-style-type: none;
+  background-color: #f8f8ff;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  min-width: 200px;
+}
+.counts-container {
+  display: flex;
+  align-items: center;
+}
+.pngs {
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
+.counts-text {
+  margin: 0px;
+  font-weight: 500;
+  font-size: 15px;
+}
+.name-heading {
+  font-size: 15px;
+}

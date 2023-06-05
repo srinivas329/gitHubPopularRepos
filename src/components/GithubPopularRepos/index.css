@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card {
+  background-color: white;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+}
+.ul-list {
+  padding: 0px;
+  display: flex;
+}
+.heading {
+  font-family: Lobster;
+  font-size: 45px;
+  margin-bottom: 0px;
+}
+.ul-list2 {
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 80px;
+}
+.failure-img {
+  width: 400px;
+  height: 300px;
+}
+.failure-tab {
+  align-items: center;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.failure-heading {
+  font-family: bree serif;
+  margin-left: 50px;
+}
